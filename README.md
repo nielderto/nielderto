@@ -1,5 +1,4 @@
-## Hi, I'm Otneil 👋  
-(Neil for short)
+## Hi, I'm Otneil (Neil for short) 👋  
 
 I'm currently working on **Versatile.ID** as a Frontend Developer
 
