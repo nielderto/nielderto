@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi, I'm Otneil 👋  
+(Neil for short)
 
-<!--
-**nielderto/nielderto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on **Versatile.ID** as a Frontend Developer
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Shadcn UI
+- Motion
+
+**Backend**
+- Node.js
+- Express
+- Prisma
+- BetterAuth
+
+**Tools**
+- Git
+- GitHub
+
+---
+
+### 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/nielderto
+- Email: nielderto@gmail.com
